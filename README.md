@@ -1,8 +1,14 @@
-# Hi 👋 I'm Kalyan
+<h1 align="center">Hi 👋, I'm Kalyan</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | DSA Learner</h3>
 
-🎓 B.Tech CSE Student
+---
+
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student
 💻 Passionate about Programming and Problem Solving
-🚀 Currently practicing Data Structures & Algorithms
+📚 Currently learning Data Structures and Algorithms
+🔥 Practicing daily on LeetCode
 
 ---
 
@@ -20,7 +26,7 @@
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kalyan4518\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kalyan4518\&theme=tokyonight)
 
 ---
 
@@ -30,9 +36,18 @@
 
 ---
 
-## 🚀 Current Goals
+## ⚡ Tech Stack
 
-✔ Solve 500+ LeetCode Problems
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge\&logo=github)
+
+---
+
+## 🎯 Goals
+
+✔ Solve 500+ LeetCode problems
 ✔ Master Data Structures & Algorithms
 ✔ Become a Software Engineer
 
