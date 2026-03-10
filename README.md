@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kalyan</h1>
-<h3 align="center">B.Tech CSE Student | Innovative Problem Solver | DSA Enthusiast</h3>>
+<h3 align="center">B.Tech CSE Student | Innovative  | DSA Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
 🎓 B.Tech Computer Science Engineering Student  
-💻 Passionate about Programming and Problem Solving  
+💡 Innovative thinker who loves solving real-world problems  
 🧠 Focused on mastering Data Structures & Algorithms  
 🚀 Building real-world software projects  
 
@@ -18,21 +18,9 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan4518&show_icons=true&theme=tokyonight)
-
----
-
 ## 📈 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=kalyan4518&theme=tokyonight)
-
----
-
-## 💻 Languages Used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan4518&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,6 +30,14 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+
+---
+## 🎯 Goals
+
+✔ Master Data Structures & Algorithms  
+✔ Stay consistent in my work  
+✔ Build impactful real-world projects  
+✔ See myself in a great position in the next 2 years  
 
 ---
 
